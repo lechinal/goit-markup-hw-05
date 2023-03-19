@@ -261,6 +261,10 @@ body {
   overflow: auto;
 }
 
+.inner-modal svg {
+  margin-left: 5px;
+}
+
 .is-hidden {
   visibility: hidden;
   opacity: 0;
